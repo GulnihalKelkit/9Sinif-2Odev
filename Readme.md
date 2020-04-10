@@ -1,4 +1,4 @@
-# Ödev2
+# Ödev2 GülnihalKelkit158 9/B
 ## Bölüm 1
 Birinci ödevde kendi deponuz içinde bir depo oluşturdunuz ve bu deponun içinde bir "readme.md" dosyası oluşturup, bu dosyanın içine bir yemek tarifi yazdınız. Bu sefer ödevimizde bir google sheet oluşturacaksınız. Bunun için bir google hesabınız olması gerekiyor.
 
